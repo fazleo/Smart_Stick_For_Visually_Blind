@@ -76,19 +76,17 @@ This algorithm ensures that the Smart Walking Stick provides real-time feedback 
 
 ## Architecture
 
-![vv](https://github.com/fazleo/Smart_Stick_For_Visually_Blind/assets/75975431/cf625416-5d05-404f-8c24-f8ac4a8157ca)
+![Project Screenshot](Images/vv.jpg)
 
 
 ## Pin Diagram
 
-<img width="576" alt="di" src="https://github.com/fazleo/Smart_Stick_For_Visually_Blind/assets/75975431/35e62e44-569b-48e9-88c5-b61b373d4bf4">
+![Project Screenshot](Images/di.png)
 
 
 ## Overall Cost of Product
 
-![tt](https://github.com/fazleo/Smart_Stick_For_Visually_Blind/assets/75975431/d173ec53-f0e7-47f9-8269-69a97d58acfa)
-
-
+![Project Screenshot](Images/tt.jpg)
 
 
 ## Sample Images
